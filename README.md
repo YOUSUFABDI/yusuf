@@ -1,6 +1,6 @@
 Hey, I'm Yusuf 👋
 
- <a href="https://yusufdev.com" target="_blank">
-              yusufdev.com
+ <a href="https://yusuf-gamma.vercel.app" target="_blank">
+              https://yusuf-gamma.vercel.app
             </a>
 # yusuf
