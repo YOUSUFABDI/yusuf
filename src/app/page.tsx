@@ -27,6 +27,9 @@ export default function Home() {
           <a href="https://suuqyo.com/" target="_blank">
             Suuqyo
           </a>
+           <a href="https://recapfy.com/" target="_blank">
+            Recapfy
+          </a>
           <a href="https://github.com/YOUSUFABDI" target="_blank">
             Github
           </a>
